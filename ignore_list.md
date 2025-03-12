@@ -4,9 +4,6 @@
    *.pyo
    .DS_Store
 
-   # Virtual environment (venv)
-   venv/
-   env/
 
    # Configuration d'utilisateur
    .idea/
